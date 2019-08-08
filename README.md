@@ -1,10 +1,7 @@
-# AFrame Virtual Reality Test
-Aframe Testing with AR.JS
+# My Website
+The source code for my website
 
 ## Before doing anything with our project besides cloning, check these out
 > - [**Code of Conduct**](CODE_OF_CONDUCT.md)
 > - [**Contributing**](CONTRIBUTING.md)
 > - [**License**](LICENSE.md)
-
-## To use AR download this marker and print it
-![Marker](marker/pattern-doom.png)
