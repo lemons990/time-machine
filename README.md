@@ -5,4 +5,4 @@ The source code for my website
 > - [**Code of Conduct**](CODE_OF_CONDUCT.md)
 > - [**Contributing**](CONTRIBUTING.md)
 > - [**License**](LICENSE.md)
-> - [**Discord Notifications**] (https://discord.gg/Ym4b4vv)
+> - [**Discord Notifications**](https://discord.gg/Ym4b4vv)
